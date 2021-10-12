@@ -105,49 +105,23 @@
 
 <br>
 
-### Armor Status HUD
+### Evergreen Hud
 
 ---
 
 <br>
 
-➔ [Link](https://www.mediafire.com/file/7hvjbs3oo8p7jvl/%255B1.8.9%255D_Powns_ArmorStatus_HUD_-_1.1.jar/file)
+➔ [Link](https://modrinth.com/mod/evergreenhud)
 
 <br>
 
-➔ Accessed with <kbd>/armorhud</kbd>
+➔ Accessed with <kbd>/evergreen</kbd>
 
-➔ Shows armor status and durability in your HUD
+➔ Has a giant variety of customizable HUD options, including armor status, potion status, ping, and much more.
 
-➔ Fully Customizable w/ Movable HUD
+➔ Movable HUD
 
-<br>
-
-### Potion Status HUD
-
----
-
-<br>
-
-➔ [Link](https://www.mediafire.com/file/pas0pju90s98r6o/%255B1.8.9%255D_Powns%2527_PotionEffect_HUD_-_1.0.jar/file)
-
-<br>
-
-➔ Accessed with <kbd>/potionhud</kbd>
-
-➔ Shows potion status effects in your HUD
-
-➔ Fully Customizable w/ Movable HUD
-
-<br>
-
-**Screenshots**
-<br>
-
-<details>
-https://i.imgur.com/47pm4cV.png
-https://i.imgur.com/1NkiQty.png
-</details>
+➔ Replaces Powns [Armor Status HUD](https://www.mediafire.com/file/7hvjbs3oo8p7jvl/%255B1.8.9%255D_Powns_ArmorStatus_HUD_-_1.1.jar/file) and [Potion Status HUD](https://www.mediafire.com/file/pas0pju90s98r6o/%255B1.8.9%255D_Powns%2527_PotionEffect_HUD_-_1.0.jar/file), but if youre looking for just a little more customization, opt for powns
 
 <br>
 
