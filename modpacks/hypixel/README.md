@@ -39,3 +39,8 @@ Item Physics Lite - by CreativeMD
 </br>
 
 ➔ [Download Instructions]()
+
+
+
+### Reccomended settings to change when you launch the modpack.
+
