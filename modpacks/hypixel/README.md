@@ -34,13 +34,15 @@ Item Physics Lite - by CreativeMD
 
 </br>
 
-➔ [Download]()
+➔ [Download](https://github.com/snapperitwo/mc-utils/raw/main/modpacks/hypixel/hypixel-core.zip)
 
 </br>
 
-➔ [Download Instructions]()
+➔ [Download Instructions](https://youtu.be/Lemp5WSBLXM)
 
+</br>
 
+➔ [Moving from a client](https://github.com/MicrocontrollersDev/Alternatives)
 
 ### Reccomended settings to change when you launch the modpack.
 
