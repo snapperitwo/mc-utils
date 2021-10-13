@@ -17,8 +17,7 @@ Hytilites - by Sk1er LLC
 ```
 non-core mods (not included in pack, but mods you should consider using) (links and info in /mods/)
 
-Powns ArmorStatus HUD - by Powns
-Powns PotionEffect HUD - by Powns
+Evergreen Hud - by isXander
 Togglesneak - by Powns
 Sidebar Mod Revamp - by Canelex & Powns
 Old Animations - by Sk1er LLC
@@ -43,6 +42,3 @@ Item Physics Lite - by CreativeMD
 </br>
 
 ➔ [Moving from a client & more mods](https://github.com/MicrocontrollersDev/Alternatives)
-
-### Reccomended settings to change when you launch the modpack.
-
