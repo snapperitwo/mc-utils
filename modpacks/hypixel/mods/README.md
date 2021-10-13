@@ -1,3 +1,22 @@
+- [Core Mods](#core-mods)
+    + [Optifine](#optifine)
+    + [Essential](#essential)
+    + [Patcher](#patcher)
+    + [Auto GG](#auto-gg)
+    + [Hytilities](#hytilities)
+- [Non Core Mods](#non-core-mods)
+    + [Evergreen Hud](#evergreen-hud)
+    + [Togglesneak (togglesprint)](#togglesneak-togglesprint)
+    + [Sidebar Mod Revamp](#sidebar-mod-revamp)
+    + [Old Animations](#old-animations)
+    + [Keystrokes](#keystrokes)
+    + [AutoTip](#autotip)
+    + [Time Changer](#time-changer)
+    + [Item Physics Lite](#item-physics-lite)
+- [More Mods](#more-mods)
+
+<br>
+
 # Core Mods
 
 <br>
@@ -175,7 +194,7 @@
 
 <br>
 
-## Old Animations
+### Old Animations
 
 ---
 
@@ -287,3 +306,47 @@
 <details>
     https://www.youtube.com/watch?v=tINtt2RK-H4
 </details>
+
+<br>
+
+# More Mods
+
+<br>
+
+**Custom Crosshair Mod** ➔ [Link](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A5806)
+
+**Custom Block Overlay** ➔ [Link](https://www.mediafire.com/file/p215r5yjgd3jsi7/Block_Overlay_4.0.3.jar/file) ➔ [Video](https://www.youtube.com/watch?v=7B8v384K0fM)
+
+**Hypixel Discord RPC** ➔ [Link](https://hypixel.net/threads/forge-1-8-9-discordrp-rich-presence-for-minecraft-hypixel.1573606/)
+
+**Hypixel Discord RPC 2** ➔ [Link](https://github.com/DeDiamondPro/HyCord)
+
+**Level Head** ➔ [Link](https://sk1er.club/mods/level_head)
+
+**Enchant Glint Colorizer** ➔ [Link](https://www.mediafire.com/file/z2lq3lqupl3zxz1/%255B1.8.9%255D_GlintColorizer_-_1.0.jar/file) ➔ [Video](https://www.youtube.com/watch?v=qlWbpA5fYjw)
+
+**Damage Tint** ➔ [Link](https://github.com/Qalcyo/DamageTint/releases/tag/v3.1.0)
+
+**Resource Pack Manager** ➔ [Link](https://www.mediafire.com/file/99ivjduqwglc7t7/Resource_Pack_Manager_1.2.jar/file) ➔ [Video](https://www.youtube.com/watch?v=OQZFWrrEcYM)
+
+**Pack Display** ➔ [Link](https://github.com/1fxe/Resource-Pack-Display)
+
+**Particles Enhanced** ➔ [Link](https://github.com/isXander/ParticlesEnhanced)
+
+**Shiny Pots** ➔ [Link](https://github.com/RoccoDev/ShinyPots-1.8/releases/tag/1.5)
+
+**Time Changer** ➔ [Link](https://github.com/My-Name-Is-Jeff/SimpleTimeChanger) * allows irl time sync unlike shatterpoints, but is overall less feature rich
+
+**Replay Mod** ➔ [Link](https://www.replaymod.com/download/)
+
+**Waypoints** ➔ [Link](https://www.mediafire.com/file/i0v0iqnqe8xc49y/Waypoints_1.0.jar/file) ➔ [Video](https://www.youtube.com/watch?v=5jq5tXqwDTM)
+
+**Potion Counter** ➔ [Link](https://www.mediafire.com/file/5noh7j9p65spjln/PotionCounterMod_1.8-1.0.jar/file) ➔ [Video](https://www.youtube.com/watch?v=7iYeYK2CGDo)
+
+**Timer Hud** ➔ [Link](https://github.com/Qalcyo/TimerHUD/releases/tag/v3.0.0)
+
+**Mumble Link (proximity** ➔ [Link](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/all?filter-game-version=2020709689%3A5806)
+
+**Blur Mod** ➔ [Link](https://www.curseforge.com/minecraft/mc-mods/blur/files/all?filter-game-version=2020709689%3A5806)
+
+**Wyvtils** ➔ [Info](https://hypixel.net/threads/wyvtilities-1-1-1-many-utilities-of-useful-stuff-for-minecraft.4362301/) ➔ [Link](https://github.com/Qalcyo/Wyvtils)
